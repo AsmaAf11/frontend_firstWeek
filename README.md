@@ -1,3 +1,3 @@
 # frontend_firstWeek
 
-## Book stor
+## Book store
